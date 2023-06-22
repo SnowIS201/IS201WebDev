@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(251, 244, 237);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(176, 199, 240);
+}
+
+A:visited{
+    color: rgb(176, 199, 240);
+}
+
+A:hover{
+    color: rgb(255, 214, 220);
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.unbold{
+    font-weight: lighter;
+}
+
+.align{
+    text-align: center;
+}
+
+.myphoto{
+    border: 7px;
+    border-color: rgb(176, 199, 240);
+    padding: 20px;
+    border-style: solid;
+    margin-top: 15px;
+    left: 60px;
+    right: 60px;
+}
+
+.list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.indexcommon{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(176, 199, 240);
+    font-size: x-large;
+    padding-top: 55px;
+}
+
+.tableau{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(176, 199, 240);
+}
+
+.scratchlinks{
+    top: 30px;
+}
+
+.large{
+    font-size: x-large;
+}
+
+.indexback{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIGDecI79yc8kITkrr0ZHzXEaWUhazsREnw&usqp=CAU);
+}
+
+.barbie{
+    width: 420px;
+    height: 315px;
+}
+
